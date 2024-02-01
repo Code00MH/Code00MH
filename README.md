@@ -17,6 +17,6 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-Estudante de Programação com foco em Back-End, como linguagem principal C#, .NET
+Estudante de Programação em parâmetros Back-End, como foco principal C#, .NET
 
 
