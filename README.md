@@ -10,7 +10,7 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img align="center" alt="C#" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
 </div><br/>
 
 Estudante de Programação em parâmetros Back-End, como foco principal C#, .NET
