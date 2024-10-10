@@ -1,10 +1,6 @@
 ### Olá! Eu sou o Mateus Henrique! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-0b9911242/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/channel/UCYX12DBEbGLBwyALL4DhPIA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/matteus_h6/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code00MH&show_icons=true&theme=onedark)
 
