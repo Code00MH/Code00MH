@@ -14,7 +14,7 @@
 </div><br/>
 <div align="center">
   <a href="https://github.com/Code00MH">
-      ## ⚙️GitHub Analytics
+      <br/>
     <img height="165px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Code00MH"
   </a>
 </div>
