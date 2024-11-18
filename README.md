@@ -14,8 +14,6 @@
 </div><br/>
 <div align="center">
   <a href="https://github.com/Code00MH">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Code00MH&count_private=true&include_all_commits=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code00MH&theme=tokyonight&layout=compact"/>
     <img height="165px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Code00MH"
   </a>
 </div>
