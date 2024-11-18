@@ -1,4 +1,5 @@
-### Olá! Eu sou o Mateus Henrique! 
+### Olá! Eu sou o Mateus Henrique! Sou estudante de Programação em parâmetros Back-End, como foco principal C#, .NET
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-0b9911242/)
 
@@ -19,6 +20,5 @@
   </a>
 </div>
 
-Estudante de Programação em parâmetros Back-End, como foco principal C#, .NET
 
 
