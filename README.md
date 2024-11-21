@@ -25,8 +25,8 @@
   <a href="https://github.com/Code00MH">
       <br/>
   </a>
+
 </div>
-![snake gif](https://github.com/Code00MH/Code00MH/blob/output/github-contribution-grid-snake.gif)
 
 
 
