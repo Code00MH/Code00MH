@@ -20,6 +20,10 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
+    <img align="center" alt="C#" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="C#" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  
 </div><br/>
 <div align="center">
   <a href="https://github.com/Code00MH">
